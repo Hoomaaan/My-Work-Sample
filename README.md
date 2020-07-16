@@ -1,5 +1,5 @@
 # My-Work-Sample
-I have provided a sample of my work in this repository. Please do not hesitate to contact me if you have any questions.
+I have provided a sample of my work in this repository (C++, Java, Python). Please do not hesitate to contact me if you have any questions.
 
 # Description
 "CPP maximal clique enumeration.zip" contains the C++ (object-oriented) codes for counting the number of maximal cliques in a graph. This folder contains two methods: Tomita and our proposed one in a parallel setting.
